@@ -20,14 +20,6 @@ Seja bem-vindo(a) ao meu perfil! Sou apaixonado por tecnologia, resolução de p
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-### 📈 Um pouco sobre o meu ritmo no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavosJesusSec&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavosJesusSec&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="160" />
-</p>
 
 ---
 
