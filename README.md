@@ -1,4 +1,4 @@
-# Olá, mundo! Sou o Gustavo 👋
+# Olá, mundo! Sou o Gustavo
 
 💻 **Estagiário em Desenvolvimento Full Stack** | 🎓 **Estudante de Ciência da Computação**
 
@@ -25,13 +25,13 @@ Seja bem-vindo(a) ao meu perfil! Sou apaixonado por tecnologia, resolução de p
 ### 📈 Um pouco sobre o meu ritmo no GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&hide=html,css"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavosJesusSec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavosJesusSec&layout=compact&theme=dracula&hide=html,css"/>
 </p>
 
 ---
 
 ### ☕ Bora trocar uma ideia?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-jesus-5a404a173)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavordejesus@outlook.com)
