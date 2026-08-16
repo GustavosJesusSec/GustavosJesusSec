@@ -25,8 +25,8 @@ Seja bem-vindo(a) ao meu perfil! Sou apaixonado por tecnologia, resolução de p
 ### 📈 Um pouco sobre o meu ritmo no GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavosJesusSec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavosJesusSec&layout=compact&theme=dracula&hide=html,css"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavosJesusSec&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavosJesusSec&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="160" />
 </p>
 
 ---
